@@ -1,0 +1,73 @@
+{
+  "_from": "github:dptole/fakeimg",
+  "_id": "fakeimg@2.1.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/fakeimg",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "dptole/fakeimg",
+    "rawSpec": "dptole/fakeimg",
+    "saveSpec": "github:dptole/fakeimg",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "github:dptole/fakeimg#69561099dd991a9cc75294ec641abf8869ab2136",
+  "_spec": "dptole/fakeimg",
+  "_where": "/Users/cristiano/Documents/Projetos/vue varios em um/all-in-one",
+  "author": {
+    "name": "Dan",
+    "email": "danillo.paiva.toledo@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/dptole/fakeimg/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Fake image URLs generator.",
+  "devDependencies": {
+    "mocha": "3.2.0",
+    "should": "11.1.2"
+  },
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "engines": {
+    "node": ">= 7.5.0"
+  },
+  "files": [
+    "src/",
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
+  "homepage": "https://github.com/dptole/fakeimg#readme",
+  "keywords": [
+    "image",
+    "fake",
+    "dummy",
+    "generate",
+    "img",
+    "create",
+    "temp",
+    "temporary",
+    "link",
+    "url"
+  ],
+  "license": "MIT",
+  "name": "fakeimg",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dptole/fakeimg.git"
+  },
+  "scripts": {
+    "test": "mocha -b -t 30000"
+  },
+  "version": "2.1.0"
+}
